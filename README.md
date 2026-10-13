@@ -33,7 +33,7 @@ This is deliberately a long list. Some of these are tools I use every week; some
 
 ### Languages and data formats
 
-`C++` · `C` · `Python` · `JavaScript` · `TypeScript` · `Java` · `Erlang` · `MATLAB` · `Shell` · `PowerShell` · `SQL` · `PL/pgSQL` · `HTML` · `CSS` · `ReScript` · `R` · `JSON` · `Jupyter Notebooks` · `Make`
+`C++` · `C` · `Python` · `JavaScript` · `TypeScript` · `Java` · `Erlang` · `MATLAB` · `Shell` · `PowerShell` · `SQL` · `PL/pgSQL` · `HTML` · `CSS` · `ReScript` · `JSON` · `Jupyter Notebooks` · `Make`
 
 ### Frontend and web
 
