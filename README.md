@@ -2,7 +2,7 @@
 
 # Pau Alcázar
 
-Data & AI consultant // analyst · Barcelona · [@drpauu](https://github.com/drpauu)
+Data & AI Consultant · Analyst · Barcelona · [@drpauu](https://github.com/drpauu)
 
 [![GitHub](https://img.shields.io/badge/GitHub-drpauu-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/drpauu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pau_Alcázar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pau-alcázar-perdomo/)
@@ -10,7 +10,9 @@ Data & AI consultant // analyst · Barcelona · [@drpauu](https://github.com/drp
 
 </div>
 
-I work as a Data & AI consultant and analyst in Barcelona. I still spend plenty of time making things: games, algorithms, data projects, websites and database-backed services.
+I help turn data, algorithms and software into useful products and better decisions. My work sits between analysis and implementation: understanding the problem, finding the signal, building the solution and making sure it works outside the notebook.
+
+My background combines data processing, machine learning, web applications, databases and software engineering. I am comfortable moving from a messy question to a structured model, a clear explanation and a working system.
 
 I like being able to follow a project from the first idea to the part where somebody can actually use it. That usually means moving between the interface, the algorithm, the database and the awkward little details in between.
 
@@ -28,8 +30,6 @@ These are the six projects I currently keep on the front page of my profile.
 | [EsinMath](https://github.com/drpauu/EsinMath) | A maths equation solver built as a C++ project, with a small supporting toolchain. |
 
 ## Toolbox
-
-This is deliberately a long list. Some of these are tools I use every week; some came from a project, a class or one particularly stubborn line of code. They are all part of the path so far.
 
 ### Languages and data formats
 
@@ -55,11 +55,11 @@ This is deliberately a long list. Some of these are tools I use every week; some
 
 There are also smaller projects and exercises across the profile: a Strava data pipeline, sports-club management, route calculators, a car-crash predictor with synthetic data, a space-odyssey web project, Robocode and Checkers work, network and operating-system exercises, SageMath notebooks, a PostgreSQL database project, a video-game storage system, an INE data lab and a few projects whose names are better at describing the assignment than I am.
 
-Some are polished applications. Some are experiments. Some are evidence of learning a subject by making something concrete. I keep them because together they show how I got here.
+Together, these projects show how I work: I learn quickly, go deep when the problem requires it and care about taking an idea all the way to something people can use.
 
 ## What I am interested in now
 
-Small products with a real point of view, games that explain themselves while you play, algorithms that can be inspected instead of merely trusted, and database systems that stay understandable when the application grows.
+Data products with a clear purpose, analytical work that leads to action, algorithms that can be inspected instead of merely trusted, and database systems that stay understandable as the application grows.
 
 Outside the editor, I am a high-performance athlete. That probably explains some of the patience with debugging and most of the stubbornness about iteration.
 
