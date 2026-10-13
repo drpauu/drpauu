@@ -2,7 +2,7 @@
 
 # Pau Alcázar
 
-Data & AI Consultant · Analyst · Barcelona · [@drpauu](https://github.com/drpauu)
+Data & AI Consultant · Analyst · Computer Science graduate from UPC · Barcelona · [@drpauu](https://github.com/drpauu)
 
 [![GitHub](https://img.shields.io/badge/GitHub-drpauu-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/drpauu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pau_Alcázar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pau-alcázar-perdomo/)
@@ -10,7 +10,7 @@ Data & AI Consultant · Analyst · Barcelona · [@drpauu](https://github.com/drp
 
 </div>
 
-I help turn data, algorithms and software into useful products and better decisions. My work sits between analysis and implementation: understanding the problem, finding the signal, building the solution and making sure it works outside the notebook.
+I help turn data, algorithms and software into useful products and better decisions. I have a degree in Computer Science from the Universitat Politècnica de Catalunya (UPC), and my work sits between analysis and implementation: understanding the problem, finding the signal, building the solution and making sure it works outside the notebook.
 
 My background combines data processing, machine learning, web applications, databases and software engineering. I am comfortable moving from a messy question to a structured model, a clear explanation and a working system.
 
