@@ -2,7 +2,7 @@
 
 # Pau Alcázar
 
-Computer science student · Barcelona · [@drpauu](https://github.com/drpauu)
+Data & AI consultant // analyst · Barcelona · [@drpauu](https://github.com/drpauu)
 
 [![GitHub](https://img.shields.io/badge/GitHub-drpauu-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/drpauu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Pau_Alcázar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pau-alcázar-perdomo/)
@@ -10,7 +10,7 @@ Computer science student · Barcelona · [@drpauu](https://github.com/drpauu)
 
 </div>
 
-I study computer science in Barcelona and spend most of my free time making things: games, algorithms, data projects, websites, database-backed services and the occasional university assignment that turns into something I want to keep.
+I work as a Data & AI consultant and analyst in Barcelona. I still spend plenty of time making things: games, algorithms, data projects, websites and database-backed services.
 
 I like being able to follow a project from the first idea to the part where somebody can actually use it. That usually means moving between the interface, the algorithm, the database and the awkward little details in between.
 
